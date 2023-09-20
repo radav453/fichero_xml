@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<agenda>
+  <contacto>
+    <nombre>Juan</nombre>
+    <apellidos>Pérez Pérez</apellidos>
+    <direccion>
+      <calle>El Pescador,1</calle>
+      <poblacion>Tacoronte</poblacion>
+      <cp>38350</cp>
+    </direccion>
+    <telefono>
+      <tel_casa>922563295</tel_casa>
+      <tel_movil>649035313</tel_movil>
+      <tel_trabajo>922470000</tel_trabajo>
+    </telefono>
+  </contacto>
+  <contacto>
+    <nombre>María</nombre>
+    <apellidos>Hernández Pérez</apellidos>
+    <direccion>
+      <calle>Andrómeda,1</calle>
+      <poblacion>La Laguna</poblacion>
+      <cp>38200</cp>
+    </direccion>
+    <telefono>
+      <tel_casa>922111111</tel_casa>
+      <tel_movil>649035377</tel_movil>
+      <tel_trabajo>922470055</tel_trabajo>
+    </telefono>
+  </contacto>
+</agenda>
+  

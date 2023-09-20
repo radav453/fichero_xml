@@ -1,0 +1,5 @@
+<!ELEMENT Agenda (Contacto+)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Apellidos(#PCDATA))>
+<!ELEMENT tfl(·#PCDATA)>
+<!ATTLIST tfl tipo CDATA #REQUIRED>

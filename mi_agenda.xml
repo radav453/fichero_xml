@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "file:///C:/Users/Usuario/Documents/documentos%20XML/tema%204%20y%205/mi_agenda.dtd">
+<Agenda>
+
+  <Contacto>
+
+    <Nombre>Asterix</Nombre>
+    <tlf tipo ="fijo">922563295</tlf>
+  
+  </Contacto>
+
+  <Contacto>
+  <Nombre>Obelix</Nombre>
+  <tlf tipo="fijo">922259051</tlf>
+  <tlf tipo="móvil">649035313</tlf>
+</Contacto>
+</Agenda>
