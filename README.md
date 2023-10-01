@@ -1,2 +1,2 @@
 # fichero_xml
-# colección de ficheros xml y dtd
+# colección de ficheros xml y dtd chachi piruli
